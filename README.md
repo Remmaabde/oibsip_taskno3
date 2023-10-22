@@ -1,4 +1,3 @@
-# oibsip_taskno3
 # TODO LIST App
 
 This is a web-based TODO list app that allows users to add, edit, and delete tasks. It also provides the ability to set priorities for tasks and includes additional features for premium plans, such as changing themes and accessing additional features through payment. The app is built using HTML, CSS, JavaScript, and SQL.
@@ -22,14 +21,14 @@ To run this project on your local machine, you need to have the following softwa
 - MySQL or any other SQL database server
 
 ## Installation
+
 1. Clone the repository or download the ZIP file.
 2. Extract the files to your web server's root directory or any desired directory.
-3. Start XAMPP or similar software and start the Apache and MySQL services.
-4. Open phpMyAdmin or any other SQL database management tool.
-5. Create a new database and import the database.sql file into it.
-6. Open the config.php file located in the includes directory.
-7. Update the database connection details (hostname, username, password, and database name) in the config.php file.
-8. Save the config.php file.
+3. Create a new database in your SQL server.
+4. Import the database.sql file into your newly created database.
+5. Open the config.php file located in the includes directory.
+6. Update the database connection details (hostname, username, password, and database name) in the config.php file.
+7. Save the config.php file.
 
 ## Usage
 
